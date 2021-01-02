@@ -1,7 +1,6 @@
 ---
 title: Sign Up
 subtitle: ''
-image: images/11.jpg
 image_alt: Office desk top view
 layout: page
 ---
