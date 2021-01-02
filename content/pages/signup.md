@@ -1,6 +1,6 @@
 ---
 title: Sign Up
-subtitle: kjhkjh
+subtitle: kjh
 image_alt: Office desk top view
 layout: page
 ---
